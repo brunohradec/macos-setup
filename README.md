@@ -1,3 +1,7 @@
+# macOS setup
+
+This is a setup I use on all my macOS based machines I use heavily for development. I refined it over many years I use macOS, and as of today, it has worked very well.
+
 ## 1. Install dev tools
 
 For installing all necessary development tools on macOS (required for next steps), simply open the terminal and try using `git` or any other dev tools (`gcc`, `clang`, …) from the terminal, for example:
