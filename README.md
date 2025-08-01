@@ -318,7 +318,7 @@ If prompted about GitHub key fingerprint, input "yes" in the terminal.
 
 <aside>
 
-No additional configuration in needed, this allows you to clone and push to all your private repos.
+No additional configuration is needed, this allows you to clone and push to all your private repos.
 
 </aside>
 
